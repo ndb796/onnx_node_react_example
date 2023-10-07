@@ -1,0 +1,14 @@
+* {
+  font-family: 'NanumSquareNeo';
+}
+
+
+img {
+  max-width: 374px;
+  max-height: 374px;
+}
+
+.loading {
+  width: 100px;
+  height: auto;
+}
