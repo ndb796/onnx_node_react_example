@@ -1,3 +1,14 @@
+## <b>ONNX Face Recognition with Node.js + React.js Example</b>
+
+* This repository provides ONNX (deep-learning) inference website examples.
+  * <b>Version 1</b>: Node.js vanilla JavaScript implementation.
+  * <b>Version 2</b>: Node.js + React.js implementation.
+* If you have any questions, please contact dongbinna@postech.ac.kr.
+
+<hr>
+
+<img src="resources/demo.png" width="720px">
+
 ### <b>Node.js Installation</b>
 
 * To use the light-server, we need the *Node.js* runtime.
@@ -10,7 +21,7 @@
 npm init
 </pre>
 
-* After install a <b>Node.js</b> package, the followings will appear:
+* After installing a <b>Node.js</b> package, the following contents will appear:
   1. *package.json* shows the packages we want to use.
   2. *package-lock.json* shows the detailed packages with version names.
   3. *node_modules* contains the whole source codes of installed packages.
@@ -107,8 +118,8 @@ module.exports = () => {
 * Set the Git configuration of my local computer.
 
 <pre>
-git config --global user.name "ndb7967"
-git config --global user.email "ndb7967@gmail.com"
+git config --global user.name "ndb796"
+git config --global user.email "ndb796@naver.com"
 </pre>
 
 * Initialize the Git project in this directory.
@@ -134,7 +145,7 @@ git commit -m "Update"
 
 <pre>
 git branch -M main
-git remote add origin https://github.com/ndb7967/onnx_example.git
+git remote add origin https://github.com/ndb796/onnx_node_react_example.git
 </pre>
 
 * Push the codes.
